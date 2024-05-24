@@ -8290,11 +8290,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hanh\\Desktop\\New folder\\Final(KTLT)\\StaffManagement.csproj",
+      "projectUniqueName": "C:\\Users\\hanh\\Desktop\\Work\\KTLT\\StaffManagement.csproj",
       "projectName": "StaffManagement",
-      "projectPath": "C:\\Users\\hanh\\Desktop\\New folder\\Final(KTLT)\\StaffManagement.csproj",
+      "projectPath": "C:\\Users\\hanh\\Desktop\\Work\\KTLT\\StaffManagement.csproj",
       "packagesPath": "C:\\Users\\hanh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hanh\\Desktop\\New folder\\Final(KTLT)\\obj\\",
+      "outputPath": "C:\\Users\\hanh\\Desktop\\Work\\KTLT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
