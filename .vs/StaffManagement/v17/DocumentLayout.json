@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\hanh\\Desktop\\Work\\KTLT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D1D0E1D-2681-437C-87B0-63188BA3FAD8}|StaffManagement.csproj|c:\\users\\hanh\\desktop\\work\\ktlt\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1D0E1D-2681-437C-87B0-63188BA3FAD8}|StaffManagement.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1D0E1D-2681-437C-87B0-63188BA3FAD8}|StaffManagement.csproj|c:\\users\\hanh\\desktop\\work\\ktlt\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D1D0E1D-2681-437C-87B0-63188BA3FAD8}|StaffManagement.csproj|solutionrelative:views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D1D0E1D-2681-437C-87B0-63188BA3FAD8}|StaffManagement.csproj|c:\\users\\hanh\\desktop\\work\\ktlt\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D1D0E1D-2681-437C-87B0-63188BA3FAD8}|StaffManagement.csproj|solutionrelative:views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -22,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\hanh\\Desktop\\Work\\KTLT\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\hanh\\Desktop\\Work\\KTLT\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAswKcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:50:17.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanh\\Desktop\\Work\\KTLT\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hanh\\Desktop\\Work\\KTLT\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:48:41.658Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -38,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\hanh\\Desktop\\Work\\KTLT\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -46,12 +80,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAFoAAAAAAAAAAAAAAGgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T16:43:23.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T16:43:23.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\hanh\\Desktop\\Work\\KTLT\\Views\\Accounts\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Accounts\\Index.cshtml",
@@ -59,18 +92,17 @@
               "RelativeToolTip": "Views\\Accounts\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T16:43:19.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T16:43:19.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\hanh\\Desktop\\Work\\KTLT\\Views\\Accounts\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Accounts\\Edit.cshtml",
               "ToolTip": "C:\\Users\\hanh\\Desktop\\Work\\KTLT\\Views\\Accounts\\Edit.cshtml",
               "RelativeToolTip": "Views\\Accounts\\Edit.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACUAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-24T16:43:15.77Z",
               "EditorCaption": ""

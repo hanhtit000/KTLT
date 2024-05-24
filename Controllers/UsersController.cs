@@ -168,7 +168,8 @@ namespace StaffManagement.Controllers
                 ViewData["Message"] = "Staff not exist";
                 return View(staff);
             }
-            if (ModelState.IsValid)
+            var find = _context.Users.FirstOrDefault(u => u.Name == Name || u.Email == Email || u.StaffNumber == StaffNumber);
+            if (ModelState.IsValid && find==null)
             {
                 try
                 {
@@ -188,6 +189,7 @@ namespace StaffManagement.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["Message"] = "Duplicated with Name or Email or StaffNumber";
             ViewData["DepartmentId"] = new SelectList(_context.Departments, "DepartmentId", "Name");
             return View(staff);
         }
